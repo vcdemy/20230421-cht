@@ -8,7 +8,7 @@
 * [機器學習/深度學習簡介](https://docs.google.com/presentation/d/1k8KY-j9sopuBr9wqaaG_EBH-3kbhP1t_CPwBkVWY7c8/edit?usp=sharing)
 * [政府資料開放平台](https://data.gov.tw/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
-* [Scikit-Learn](https://scikit-learn.org/stable/)
+* [Scikit-Learn](https://github.com/vcdemy/sklearn)
 * [Keras](https://keras.io/)
 * [Why Keras?](https://docs.google.com/presentation/d/11qpfPd6NhzK_cuEwsv45l1z0kjxxrGcDfbAjQd-4b5M/edit?usp=sharing)
 * [ChatGPT](https://chat.openai.com/chat)
